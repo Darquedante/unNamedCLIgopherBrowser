@@ -1,0 +1,5 @@
+{
+    "hostname": "gopher.floodgap.com",
+    "port": 70,
+    "history": ["/path/on/server", "/another/path/on/server"]
+}

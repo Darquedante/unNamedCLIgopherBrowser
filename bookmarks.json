@@ -1,0 +1,22 @@
+[
+    {
+        "title": "1436.ninja",
+        "selector": "gopher://1436.ninja:70/"
+    },
+    {
+        "title": "gopher.floodgap.com",
+        "selector": "gopher://gopher.floodgap.com:70/"
+    },
+    {
+        "title": "gopherpedia.com",
+        "selector": "gopher://gopherpedia.com:70/"
+    },
+    {
+        "title": "gopher.black",
+        "selector": "gopher://gopher.black:70/"
+    },
+    {
+        "title": "gopher.zone",
+        "selector": "gopher://gopher.zone:70/"
+    }
+]

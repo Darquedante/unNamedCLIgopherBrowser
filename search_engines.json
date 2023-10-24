@@ -1,0 +1,4 @@
+[
+    {"name": "Veronica-2", "hostname": "veronica-2.server.com", "selector": "/search?"},
+    {"name": "Contrition - All Types", "hostname": "contrition.server.com", "selector": "/alltypessearch?"}
+]
